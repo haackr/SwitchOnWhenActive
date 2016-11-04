@@ -29,7 +29,7 @@ preferences {
 	section("Turn on a light..."){
 		input "switches", "capability.switch", multiple: true
 	}
-    section("Turn it back off after..."){
+    section("Turn it back off after (optional)..."){
     	input "offDelay", "number", title: "Minutes", required: false
     }
 }
