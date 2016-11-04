@@ -20,6 +20,8 @@ definition(
     author: "Ryan Haack",
     description: "Turn a switch on when an accelerometer is active.",
     category: "Convenience",
+    iconUrl: "https://s3.amazonaws.com/smartapp-icons/Convenience/Cat-Convenience.png",
+    iconX2Url: "https://s3.amazonaws.com/smartapp-icons/Convenience/Cat-Convenience.png"
 )
 
 preferences {
